@@ -14,7 +14,7 @@ There are some specific instructions for each file
 ## Conway's Game of Life Rules: Naming Convention
 
 Conway's Game of Life obeys the following rules by default:
-1. A cell is born (0 -> 1) if it has 3 live neighbours. This is represented B3
+1. A cell is born (0 -> 1) if it has 3 live neighbours. This is represented by B3
 2. A cell survives (1 -> 1) if it has 2 or 3 neighbours. This is represented by S23
 3. Otherwise, a cell dies (1 -> 0)
 
